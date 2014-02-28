@@ -9,3 +9,6 @@ fishrespyGUI.py provides interface for easy implementation
 displayData.py provides methods to visualize results
 
 Example input file provided in examples folder. Input parameters are listed in the header of the input file under DESCRIPTION. The expected output for the input file is also provided for comparison.
+
+Created with Python v3.3
+

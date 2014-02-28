@@ -271,7 +271,7 @@ class MO2Calculate:
     def quality_control(self, date, time, O2):
         """Checks for missing values (values not recorded in raw file).  If value
            is missing, generates value for that time as the average of the
-           previous and last values.  Returns list of O2 values for full 10 min
+           previous and last values.  Returns list of O2 values for full cycle
            period.
         """
         seconds = self.cycle_time[0] * 60 + self.cycle_time[1]

@@ -6,7 +6,6 @@ from datetime import datetime
 import matplotlib.pyplot as plt
 import math
 import numpy as np
-from matplotlib.ticker import NullFormatter
 
 class DisplayData:
     """
